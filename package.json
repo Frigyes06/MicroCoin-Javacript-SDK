@@ -11,7 +11,7 @@
     "fs": false
   },
   "dependencies": {
-    "superagent": "6.1.0"
+    "superagent": "7.1.2"
   },
   "devDependencies": {
     "mocha": "~9.0.3",
